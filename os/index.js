@@ -28,6 +28,7 @@ function getOSInfoByMode(modeFromEnv) {
     }
 }
 
+
 module.exports = {
     getBasicOSInfo,
     isFreeMemoryMoreThan4GB,
